@@ -1,4 +1,4 @@
-from ..db.connection import get_engine
+from db.connection import get_engine
 
 engine = get_engine()
 
